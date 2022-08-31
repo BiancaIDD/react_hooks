@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_hooks/static/css/main.a06b58bf.css",
+    "main.js": "/react_hooks/static/js/main.0792eb10.js",
+    "static/js/787.9b89ea16.chunk.js": "/react_hooks/static/js/787.9b89ea16.chunk.js",
+    "static/media/ajolotitodejohnny.png": "/react_hooks/static/media/ajolotitodejohnny.87eb3a3e66dd4d0a2a31.png",
+    "static/media/ajolititonegro.png": "/react_hooks/static/media/ajolititonegro.8553693b96152a83501b.png",
+    "static/media/ajolotitochiquito.png": "/react_hooks/static/media/ajolotitochiquito.8d71858e787ede0c7b0e.png",
+    "index.html": "/react_hooks/index.html",
+    "main.a06b58bf.css.map": "/react_hooks/static/css/main.a06b58bf.css.map",
+    "main.0792eb10.js.map": "/react_hooks/static/js/main.0792eb10.js.map",
+    "787.9b89ea16.chunk.js.map": "/react_hooks/static/js/787.9b89ea16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06b58bf.css",
+    "static/js/main.0792eb10.js"
+  ]
+}
