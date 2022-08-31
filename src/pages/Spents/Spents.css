@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Spen_conteiner {
+  background-color: #cddfa0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  gap: 40px;
+}
+
+.spen__conteiner2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Spen__title {
+  display: flex;
+  flex-direction: row;
+  width: 450px;
+  height: 100px;
+  font-size: medium;
+  background-color: #9f6ba0;
+  border-radius: 25px;
+  align-items: center;
+}
+
+.spen__box {
+  display: flex;
+  align-items: center;
+}
+
+.spen__box2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.spen__table {
+  font-size: x-small;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.ajolotito {
+  width: 132px;
+  height: 69px;
+}
+
+.ajolotitonegro {
+  width: 150px;
+  height: 240px;
+}
+
+.ajolotitochiquito {
+  width: 100px;
+  height: 100px;
+}

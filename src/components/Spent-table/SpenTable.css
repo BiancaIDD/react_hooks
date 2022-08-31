@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.conteiner{
+  display: flex;
+  flex-direction: column;
+  background-color: #36413E;
+  width: 400px;
+  height: 400px;
+  color: white;
+  align-items: center;
+  gap: 10px;
+  border-radius: 25px;
+  justify-content: center;
+  font-size: small;
+}
+
+.title{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.list{
+  color: white;
+}
+
+.list__row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  height: 250px;
+  width: 250px;
+  overflow: auto;
+}
+
+.totalamount{
+  display: flex;
+  flex-direction: row;
+  border-top:1px solid white;
+}
+

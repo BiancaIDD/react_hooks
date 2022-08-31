@@ -1,0 +1,53 @@
+.pop-up{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: transparent;
+}
+
+button{
+  background-color: transparent;
+  
+}
+
+.modal{
+display: flex;
+flex-direction: column;
+align-items: center;
+border-radius: 25px;
+}
+
+.modal__form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.modal__header, .modal__body, .modal__footer{
+  background-color: #CDDFA0;
+  font-size: large;
+  
+}
+
+.add{
+  background-color: #61C9A8;
+  color: white;
+  border-radius: 10%;
+  width: 100px;
+  height: 50px;
+}
+
+.close{
+  background-color: #7AFDD6;
+  color: black;
+  border-radius: 10%;
+  width: 100px;
+  height: 50px;
+}
+
+.close:hover, .add:hover{
+  background-color: #9F6BA0;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
